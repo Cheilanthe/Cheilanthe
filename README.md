@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth :herb: :sunflower:</h1>
 <h3 align="center">I am a Front End Developer Jr, passionate about learning. </h3>
 
-- :computer::yellow_heart:  I’m currently Learning on **Laboratoria**.
+- :computer::yellow_heart:  I’m currently Learning to program on **Laboratoria**.
 - 🚀 I’m looking to collaborate on Ia company where i can contribute to the development of projects and enhance my development.
 
 <h3 align="left">Connect with me:</h3>
