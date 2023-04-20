@@ -11,8 +11,9 @@
 <tr>
   <td> <h3 align="left">Proyects:</h3>
    <p> To continued there are a list of link with some proyects that i maded in Laboratoria: 
-Md-links: A package for validate the links of a marckdown document. 
-Data Lovers: In this i develo  </p>
+Md-links: With NodeJs, I developed a library that evaluates the URLs of a Markdown document.
+</p>
+    <p>Data Lovers:I developed a web page that allows to perform queries on a Pokemon-based data. </p>
   </td>
   <td>
   <h3 align="left">Languages and Tools:</h3>
