@@ -10,9 +10,7 @@
 </p>
 
 <tr>
- <td>
-     <h3 align="left">Proyects:</h3>
- </td>
+  <td><h3 align="left">Proyects:</h3></td>
   <td>
   <h3 align="left">Languages and Tools:</h3>
   <ul>
