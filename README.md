@@ -9,7 +9,7 @@
 </p>
 <table>
 <tr>
-  <td> <h3 align="left">Proyects:</h3>
+  <td> <h3 align="left">Projects:</h3>
     <p> To continued there are a list of link with some proyects that i maded in Laboratoria:</p>
       <ol>
         <li> <p>Md-links: With NodeJs, I developed a library that evaluates the URLs of a Markdown document.</p> </li>
