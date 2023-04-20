@@ -8,7 +8,7 @@
 <p align="left">  Linked In
 <a href="https://linkedin.com/in/diana-elizabeth-hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana-elizabeth-hg" height="30" width="40" /></a>
 </p>
-
+<table>
 <tr>
   <td> <h3 align="left">Proyects:</h3>
    <p> To continued there are a list of link with some proyects that i maded in Laboratoria: 
@@ -27,4 +27,4 @@ Data Lovers: In this i develo  </p>
   <li> <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> Node JS </p> </li>
  </td>
  </tr>
-
+</table>
