@@ -10,10 +10,12 @@
 <table>
 <tr>
   <td> <h3 align="left">Proyects:</h3>
-   <p> To continued there are a list of link with some proyects that i maded in Laboratoria: 
-Md-links: With NodeJs, I developed a library that evaluates the URLs of a Markdown document.
-</p>
-    <p>Data Lovers:I developed a web page that allows to perform queries on a Pokemon-based data. </p>
+      <ol>
+     <li> <p> To continued there are a list of link with some proyects that i maded in Laboratoria:</p> </li>
+     <li> <p>Md-links: With NodeJs, I developed a library that evaluates the URLs of a Markdown document.</p> </li>
+     <li> <p>Data Lovers:I developed a web page that allows to perform queries on a Pokemon-based data. </p> </li>
+     <li> <p>Social Network: With the handling of Firebase I made a page where users can register and make comments.</p> </li>
+      </ol>
   </td>
   <td>
   <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +27,8 @@ Md-links: With NodeJs, I developed a library that evaluates the URLs of a Markdo
       <li> <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> Javascript  </p></li>
        <li> <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> Node JS </p> </li>
       <li><p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> Python </p></li>
-<li> <p align="left"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> Jest  </p> </li> 
+      <li> <p align="left"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> Jest  </p> </li> 
+  </u>
  </td>
  </tr>
 </table>
