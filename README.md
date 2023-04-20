@@ -12,7 +12,7 @@
   <td> <h3 align="left">Proyects:</h3>
     <p> To continued there are a list of link with some proyects that i maded in Laboratoria:</p>
       <ol>
-        <li> <p style="color:MediumSeaGreen">Md-links:</p> <p> With NodeJs, I developed a library that evaluates the URLs of a Markdown document.</p> </li>
+        <li> <p style="color:MediumSeaGreen;">Md-links:</p> <p> With NodeJs, I developed a library that evaluates the URLs of a Markdown document.</p> </li>
          <li> <p>Data Lovers: I developed a web page that allows to perform queries on a Pokemon-based data. </p> </li>
          <li> <p>Social Network: With the handling of Firebase I made a page where users can register and make comments.</p> </li>
          <li> <p> Card Validation: Applying and developing Tech skills. I built a website that allows to validate a card number.</p></li>
