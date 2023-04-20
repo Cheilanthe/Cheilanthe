@@ -5,8 +5,7 @@
 - I’m looking to collaborate on a technology and/or finance service company where i can contribute to the development of projects and enhance my development.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  Linked In
-<a href="https://linkedin.com/in/diana-elizabeth-hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana-elizabeth-hg" height="30" width="40" /></a>
+<p align="left"> <a href="https://linkedin.com/in/diana-elizabeth-hg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana-elizabeth-hg" height="30" width="40" /></a> Linked In
 </p>
 <table>
 <tr>
