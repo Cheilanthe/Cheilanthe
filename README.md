@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Elizabeth </h1>
 <h3 align="center">I am a Front End Developer Jr, passionate about learning. </h3>
 
-- Graduate of **Laboratoria**.
+- Graduate of **Laboratoria**, generation DEV003.
 - I’m looking to collaborate on a technology and/or finance service company where i can contribute to the development of projects and enhance my development.
 
 <h3 align="left">Connect with me:</h3>
